@@ -1,4 +1,4 @@
--------Problem - 2 Documentation--------
+#Documentation - Simple python script to detect language and generate the stopWords histogram present in Sentence
 
 The code is written in python' latest version 3.6 and uses the NLTK library for the solution.
 
