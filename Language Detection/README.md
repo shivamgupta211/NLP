@@ -7,7 +7,7 @@ Used Counter from Collection module, to convert the List to respective frequenci
 Use Pickle Module, to store and load the Languages' stopwords model/object into 'stopWords' variable
 
 Pickled 'stopWords' variable contains the stop words with respective to their language.
-Language' Stop words used here are ['English','German','Spanish',''French'].
+Language' Stop words used here are ['danish', 'dutch', 'english', 'finnish', 'french', 'german', 'hungarian', 'italian', 'kazakh', 'norwegian', 'portuguese', 'romanian', 'russian', 'spanish', 'swedish', 'turkish'].
 We can modify the code for more languages(supported by NLTK Corpus) by simple tweak.
 
 Idea behind to detect the language of the paragraph/sentence, is that, for each sentences pass its nltk.word_tokens()
