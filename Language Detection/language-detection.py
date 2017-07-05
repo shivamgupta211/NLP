@@ -37,7 +37,7 @@ class Task:
             then returning that language which has got most number of the stopWords
         '''
         s = self.text
-        lang_ids = ['english','french','german','spanish']
+        lang_ids = stopWords.keys()
 
         # dic : dictionary, represents the language ant its stop words mapping
         dic = {i: [] for i in lang_ids}
