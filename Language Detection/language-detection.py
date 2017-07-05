@@ -102,3 +102,5 @@ Klimaschutz finden könnten, sagte Pachauri am Montag zum Auftakt der Diskussion
 nlp = Task(text)
 
 nlp.get_all()
+
+#Deteted language : German
